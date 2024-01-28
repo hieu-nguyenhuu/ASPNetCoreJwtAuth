@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wp1Ck+p3qeNJeJZVT0anGnddvdhUK13Ic8DJbNvv1js=",
+  "Source": "ASPNetCoreJwtAuth",
+  "BasePath": "_content/ASPNetCoreJwtAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
